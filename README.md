@@ -14,6 +14,7 @@ Output:
 - Now the final resume looks like as shown below:
   ![image](https://github.com/AditiGoyal26/Coding-Raja-Technologies-Internship/assets/129757364/41e8e7c3-d861-473e-82dd-3f782166006b)
 
+
 Task 2: Music Player
 
 This is a basic music player User Interface developed using HTML, CSS, and JavaScript.
